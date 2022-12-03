@@ -1,0 +1,40 @@
+{
+  "name": "projeto-final-reprograma-brizza-nathielly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --forceExit --coverage",
+    "start": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisbrizza/projeto-final-reprograma-brizza-nathielly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoisbrizza/projeto-final-reprograma-brizza-nathielly/issues"
+  },
+  "homepage": "https://github.com/whoisbrizza/projeto-final-reprograma-brizza-nathielly#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "supertest": "^6.3.1"
+  },
+  "jest": {
+    "setupFiles": [
+      "<rootDir>/src/test/jest.setup.js"
+    ]
+  }
+}
