@@ -332,7 +332,7 @@ Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs compl
 >Atualizando Medicação específica por Id com autenticação:
 
 <div align = "center">
-<img src='./assets/16-atualizar-medicação-por-id.gif'>
+<img src='./assets/16-atualizar-medicação-por-id-gif.gif'>
 
 </div>
 <br>
