@@ -8,11 +8,17 @@
 <br>
 
 
-<p align="justify"> Bem vindx, ao meu projeto! Ele foi desenvolvido como requisito final para a conclusão do Bootcamp "Todas em Tech" da {reprograma}. 
+<p align="justify"> Sejam bem vindxs ao meu projeto! Ele foi desenvolvido como requisito final para a conclusão do Bootcamp "Todas em Tech" da {reprograma}. 
 
 ## 📝 Link Apresentação
 
-- [Apresentação](https://www.canva.com/design/DAFHkuR6_2A/xWI4AeidDDWksdBlniyc2w/view?utm_content=DAFHkuR6_2A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [Apresentação](https://www.canva.com/design/DAFUNUmFJtI/kCNDuuGVmMtZajFAsEg5jw/view?utm_content=DAFUNUmFJtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+## 📝 Link Vercel
+
+- [Vercel](https://cronograma-medico-brizza-nathielly.vercel.app/)
+
 
 ---
 
@@ -35,10 +41,14 @@ Tive a ideia no dia 21/10/2022, e até registrei no whatsapp, numa conversa comi
 <img src="./assets/print-wpp-data-projeto-21-10-2022.png" width="50%" height="50%"/></p>
 <br>
 
+---
+
 ## 🔎 SOBRE A API:
 
 <p align="justify">
 O projeto "Cronograma Médico" é voltado para pessoas que cuidam dos pais idosos organizarem, em um só lugar, todas as consultas, exames, cirurgias e medicações para prestar uma melhor assistência aos seus pais. 
+
+---
 
 ## ⚙️ FUNCIONALIDADES:
 
@@ -59,9 +69,13 @@ O projeto "Cronograma Médico" é voltado para pessoas que cuidam dos pais idoso
 - Atualizar Medicação na API;
 - Deletar um agendamento específico por Id.
 
+---
+
 ## 💻 MÉTODOS:
 <p align="justify">
-Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs completos que respeitam princípios de Clean Code. Utilizando a conexão com bando de dados MongoDB e as rotas foram testadas no Insomnia.
+Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs completos que respeitam princípios de Clean Code. Utilizando a conexão com banco de dados MongoDB e as rotas foram testadas no Insomnia.
+
+---
 
 ## 📂 ARQUITETURA MVC
 ```
@@ -104,6 +118,7 @@ Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs compl
    |- 📑 vercel.json
      
 ```
+---
 
 ## 👨‍💻 TECNOLOGIAS E PACOTES UTILIZADOS:
 
@@ -129,6 +144,8 @@ Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs compl
 - [Bcrypt](https://www.npmjs.com/package/bcrypt)
 - [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
+---
+
 
 # 🔃 ROTAS
 
@@ -151,6 +168,8 @@ Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs compl
 | PUT          | `/cronograma/atualizar-cirurgia/:id` | Atualiza Cirurgia específica por Id com autenticação   |
 | PUT          | `/cronograma/atualizar-medicacao/:id`| Atualiza Medicação específica por Id com autenticação  |
 | DELETE       | `/cronograma/deletar-item/:id`       | Deleta um agendamento específico por Id com autenticação|
+
+---
 
 ## 🛑​ PARA REALIZAR A INSTALAÇÃO NO SEU COMPUTADOR:
 
@@ -346,13 +365,24 @@ Desenvolvida utilizando JavaScript e Node.js, a API conta com quatro CRUDs compl
 </div>
 <br>
 
+---
 
 ## 🏗️ IMPLEMENTAÇÕES FUTURAS:
 
 *  Desenvolver um front-end;
 *  Adaptar a API para um formato de APP;
+*  Documentação com Swagger;
 *  Transformar esse cronograma numa rede social para que pessoas que cuidam de seus pais idosos possam interagir, compartilhar experiências, dicas e avaliações de clínicas, hospitais, farmácias, etc.
 
+
+---
+
+
+## 📝 Readme utilizado como referência:
+
+- [Projeto Rede de Apoio](https://github.com/anaelisaq/projeto-rede-apoio)
+
+---
 
 
 ##  👩 SOBRE A AUTORA:
