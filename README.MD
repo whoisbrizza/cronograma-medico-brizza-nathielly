@@ -12,7 +12,7 @@
 
 ## 📝 Link Apresentação
 
-- [Apresentação](https://www.canva.com/design/DAFUNUmFJtI/kCNDuuGVmMtZajFAsEg5jw/view?utm_content=DAFUNUmFJtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Apresentação](https://www.canva.com/design/DAFUrSXmPt8/YNlLmlxhjdiMLcd0uFmmzw/view?utm_content=DAFUrSXmPt8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 ---
 ## 📝 Link Vercel
